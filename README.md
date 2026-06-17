@@ -1,56 +1,68 @@
-# RetailIQ Analytics 📊
+# 📊 RetailIQ Analytics
 
-A professional Data Analytics project built using Python and Power BI to analyze Superstore sales data and generate business insights.
+A professional end-to-end Retail Analytics project built using **Python** and **Power BI** to analyze Superstore sales data and generate actionable business insights.
 
 ---
 
-## Project Overview
+## 🚀 Project Overview
 
 RetailIQ Analytics provides insights into:
 
-- Sales Trends
-- Profit Analysis
-- Product Performance
-- Regional Performance
-- Customer Analysis
-- Shipping Analysis
+* Sales Trends
+* Profit Analysis
+* Product Performance
+* Regional Performance
+* Customer Segments
+* Shipping Analysis
 
 ---
 
-## Technologies Used
+## 🛠 Technologies Used
 
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Power BI
-- Jupyter Notebook
+* Python
+* Pandas
+* NumPy
+* Matplotlib
+* Seaborn
+* Power BI
+* Jupyter Notebook
 
 ---
 
-## Folder Structure
+## 📂 Project Structure
 
-```text
+```
 RetailIQ_Analytics/
 │
 ├── data/
+│      ├── raw/
+│      └── processed/
+│
 ├── notebooks/
+│      01_data_loading.ipynb
+│      02_data_cleaning.ipynb
+│      03_exploratory_data_analysis.ipynb
+│      04_visualization.ipynb
+│      05_business_insights.ipynb
+│
 ├── scripts/
 ├── charts/
 ├── reports/
 ├── docs/
 ├── powerbi/
-├── src/
 ├── sql/
+├── config/
+├── src/
+│
 ├── main.py
 ├── requirements.txt
-└── README.md
+├── README.md
+└── .gitignore
 ```
 
 ---
 
-## Features
+## ✨ Features
 
 ✔ Data Cleaning
 
@@ -58,41 +70,83 @@ RetailIQ_Analytics/
 
 ✔ Data Visualization
 
-✔ Business Insights
+✔ Automated Business Insights
+
+✔ Chart Generation
+
+✔ Text Report Generation
 
 ✔ Power BI Dashboard
 
-✔ Automated Chart Generation
-
-✔ Business Report Generation
+✔ Modular Python Scripts
 
 ---
 
-## Dashboard KPIs
+## 📈 Dashboard KPIs
 
-- Total Sales
-- Total Profit
-- Total Orders
-- Average Sales
-
----
-
-## Visualizations
-
-- Monthly Sales Trend
-- Monthly Profit Trend
-- Top Products
-- Region-wise Sales
-- Category Distribution
+* Total Sales
+* Total Profit
+* Total Orders
+* Average Sales
 
 ---
 
-## Future Enhancements
+## 📊 Visualizations
 
-- SQL Integration
-- Streamlit Dashboard
-- Machine Learning
-- Sales Prediction
-- Customer Segmentation
+* Monthly Sales Trend
+* Monthly Profit Trend
+* Top Products by Sales
+* Region-wise Sales
+* Category Distribution
 
 ---
+
+## ▶️ Run Project
+
+Clone repository:
+
+```bash
+git clone https://github.com/mahi-tech-dev/RetailIQ-Analytics.git
+```
+
+Go inside project:
+
+```bash
+cd RetailIQ-Analytics
+```
+
+Install dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+
+Run:
+
+```bash
+python main.py
+```
+
+---
+
+## 🔮 Future Enhancements
+
+* SQL Integration
+* Streamlit Dashboard
+* Machine Learning Models
+* Sales Forecasting
+* Customer Segmentation
+* Deployment
+
+---
+
+## 👨‍💻 Author
+
+**Mahesh Ugale**
+
+GitHub:
+https://github.com/mahi-tech-dev
+
+---
+
+⭐ If you found this project useful, consider giving it a star.
