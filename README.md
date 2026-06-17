@@ -1,8 +1,12 @@
-# 📊 RetailIQ Analytics
+# RetailIQ Analytics 📊
 
-A professional end-to-end Retail Analytics project built using **Python** and **Power BI** to analyze Superstore sales data and generate actionable business insights.
+## Dashboard Preview
 
----
+![Dashboard](dashboard.png)
+
+A professional Data Analytics project built using Python and Power BI to analyze Superstore sales data and generate business insights.
+
+
 
 ## 🚀 Project Overview
 
@@ -15,7 +19,7 @@ RetailIQ Analytics provides insights into:
 * Customer Segments
 * Shipping Analysis
 
----
+
 
 ## 🛠 Technologies Used
 
@@ -27,7 +31,7 @@ RetailIQ Analytics provides insights into:
 * Power BI
 * Jupyter Notebook
 
----
+
 
 ## 📂 Project Structure
 
@@ -60,7 +64,7 @@ RetailIQ_Analytics/
 └── .gitignore
 ```
 
----
+
 
 ## ✨ Features
 
@@ -80,7 +84,7 @@ RetailIQ_Analytics/
 
 ✔ Modular Python Scripts
 
----
+
 
 ## 📈 Dashboard KPIs
 
@@ -89,7 +93,7 @@ RetailIQ_Analytics/
 * Total Orders
 * Average Sales
 
----
+
 
 ## 📊 Visualizations
 
@@ -99,7 +103,7 @@ RetailIQ_Analytics/
 * Region-wise Sales
 * Category Distribution
 
----
+
 
 ## ▶️ Run Project
 
@@ -127,7 +131,7 @@ Run:
 python main.py
 ```
 
----
+
 
 ## 🔮 Future Enhancements
 
@@ -138,7 +142,7 @@ python main.py
 * Customer Segmentation
 * Deployment
 
----
+
 
 ## 👨‍💻 Author
 
