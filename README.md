@@ -1,8 +1,18 @@
 # RetailIQ Analytics 📊
 
+
+![Python](https://img.shields.io/badge/Python-3.14-blue)
+![PowerBI](https://img.shields.io/badge/PowerBI-Dashboard-yellow)
+![Pandas](https://img.shields.io/badge/Pandas-EDA-green)
+![License](https://img.shields.io/badge/License-MIT-red)
+
+
+
 ## Dashboard Preview
 
 ![Dashboard](dashboard.png)
+
+
 
 A professional Data Analytics project built using Python and Power BI to analyze Superstore sales data and generate business insights.
 
@@ -18,6 +28,24 @@ RetailIQ Analytics provides insights into:
 * Regional Performance
 * Customer Segments
 * Shipping Analysis
+
+
+
+## 🔄 Project Workflow
+
+Raw Data
+↓
+Data Cleaning
+↓
+EDA
+↓
+Visualization
+↓
+Business Insights
+↓
+Power BI Dashboard
+↓
+Reports
 
 
 
@@ -86,6 +114,15 @@ RetailIQ_Analytics/
 
 
 
+## 📂 Generated Outputs
+
+- Clean Dataset
+- Charts
+- Business Report
+- Power BI Dashboard
+
+
+
 ## 📈 Dashboard KPIs
 
 * Total Sales
@@ -102,6 +139,16 @@ RetailIQ_Analytics/
 * Top Products by Sales
 * Region-wise Sales
 * Category Distribution
+
+
+
+## 📌 Key Business Insights
+
+- Technology category generated the highest sales.
+- West region contributed the highest revenue.
+- Average sales per order is 229.86.
+- Total profit reached 286K.
+- Top-selling products account for a major share of revenue.
 
 
 
