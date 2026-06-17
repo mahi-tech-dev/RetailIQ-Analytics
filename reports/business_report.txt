@@ -1,0 +1,14 @@
+===== RETAILIQ ANALYTICS REPORT =====
+
+Total Sales : 2297200.86
+Total Profit : 286397.02
+Total Orders : 5015
+
+Highest Sales Category:
+Technology
+
+Highest Profit Region:
+West
+
+Top Customer:
+Sean Miller
